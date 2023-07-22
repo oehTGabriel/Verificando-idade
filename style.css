@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(85, 85, 255);
+    font:normal 20pt 'Arial';
+    text-align: center;
+    padding: 20px;
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    padding: 20px;
+    margin: auto;
+    width: 500px;
+    border-radius: 16px;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.356);
+}
+
+#btn {
+    font-size: 20pt;
+    background: rgb(85, 85, 255);
+    border-radius: 16px ;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+#foto{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
